@@ -8,6 +8,12 @@ Tabshot is a script that fetches all URLs from a browser window by iterating ove
 - pyperclip
 - pynput
 
+## Installation
+
+```
+pip install tabshot
+```
+
 ## Usage and Commands
 
 ### print
